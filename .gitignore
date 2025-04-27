@@ -13,3 +13,4 @@ wheels/
 
 # User
 local
+.env
